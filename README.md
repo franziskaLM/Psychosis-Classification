@@ -16,11 +16,6 @@ Dense Neural Networks (DNN) using vectorized FNC matrices
 Convolutional Neural Networks (CNN) with one or two input channels (Pearson and Partial correlations)
 Usage
 
-Prepare your environment (Python 3.x recommended)
-Run scripts located in the repository, e.g. Dense Neural Network.py or CNN_with2Channel.py
-Modify input paths and parameters as needed
-Results
-
 Best performance achieved by CNN with two-channel input and synthetic training data (ROC-AUC ~0.64)
 Synthetic data improves class balance and model prediction accuracy
 DNN performance declines when trained with synthetic data
